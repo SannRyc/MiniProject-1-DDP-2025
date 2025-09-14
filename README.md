@@ -12,8 +12,8 @@ Dalam program ini terdapat beberapa menu seperti:
 - Tambah Order
 - Lihat Semua Order
 - Hapus Order
-- Keluar\
-- 
+- Keluar
+  
 # BERIKUT PROGRAM SECARA KESELURUHAN
 ![CODING MINPRO DDP 1 FINAL](https://github.com/user-attachments/assets/7061d1bb-a0ee-45cb-bf90-6e1150be04c1)
 # Penjelasan Program
